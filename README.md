@@ -2,7 +2,7 @@
 <h2>Mi repositorio creado desde un celular</h2>
 git init
 -m "gitcommit"
-
+Git branch[Nombre]
 
 Git clone https://github.com/EmilianoMartinezA/Repositorio_HerramientasCompu
 
