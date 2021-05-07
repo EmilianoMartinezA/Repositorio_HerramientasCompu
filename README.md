@@ -1,2 +1,2 @@
 # Repositorio_HerramientasCompu
-Git clone <>
+Git clone <"Este es mi primer repositorio">
